@@ -1,0 +1,1 @@
+// LUNF Avatar Creator V2 JavaScript Controller
