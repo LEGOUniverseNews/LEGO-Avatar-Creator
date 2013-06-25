@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<figure>
+  <configure>
+    <sorting>
+      <item>torso</item>
+	  <item>legs</item>
+	  <item>head</item>
+	  <item>hats</item>
+	  <item>accessories_left</item>
+      <item>accessories_right</item>
+    </sorting>
+    <optional_image>images/buttons_new/noImage.png</optional_image>
+	<tabpadding>18</tabpadding>
+  </configure>
+  <bodyparts>
+    <head label="Head" optional="false" tabbed="true">
+      <image image="images/avatar_new/head/Head_01.png" thumb="images/buttons_new/head/Head_front_01.png" />
+	  <image image="images/avatar_new/head/Head_02.png" thumb="images/buttons_new/head/Head_front_02.png" />
+	  <image image="images/avatar_new/head/Head_03.png" thumb="images/buttons_new/head/Head_front_03.png" />
+	  <image image="images/avatar_new/head/Head_04.png" thumb="images/buttons_new/head/Head_front_04.png" />
+	  <image image="images/avatar_new/head/Head_05.png" thumb="images/buttons_new/head/Head_front_05.png" />
+	  <image image="images/avatar_new/head/Head_06.png" thumb="images/buttons_new/head/Head_front_06.png" />
+	  <image image="images/avatar_new/head/Head_07.png" thumb="images/buttons_new/head/Head_front_07.png" />
+	  <image image="images/avatar_new/head/Head_08.png" thumb="images/buttons_new/head/Head_front_08.png" />
+	  <image image="images/avatar_new/head/Head_09.png" thumb="images/buttons_new/head/Head_front_09.png" />
+	  <image image="images/avatar_new/head/Head_10.png" thumb="images/buttons_new/head/Head_front_10.png" />
+	  <image image="images/avatar_new/head/Head_11.png" thumb="images/buttons_new/head/Head_front_11.png" />
+	  <image image="images/avatar_new/head/Head_12.png" thumb="images/buttons_new/head/Head_front_12.png" />
+	  <image image="images/avatar_new/head/Head_13.png" thumb="images/buttons_new/head/Head_front_13.png" />
+	  <image image="images/avatar_new/head/Head_14.png" thumb="images/buttons_new/head/Head_front_14.png" />
+	  <image image="images/avatar_new/head/Head_15.png" thumb="images/buttons_new/head/Head_front_15.png" />
+	  <image image="images/avatar_new/head/Head_16.png" thumb="images/buttons_new/head/Head_front_16.png" />
+	  <image image="images/avatar_new/head/Head_17.png" thumb="images/buttons_new/head/Head_front_17.png" />
+	  <image image="images/avatar_new/head/Head_18.png" thumb="images/buttons_new/head/Head_front_18.png" />
+	  <image image="images/avatar_new/head/Head_19.png" thumb="images/buttons_new/head/Head_front_19.png" />
+	  <image image="images/avatar_new/head/Head_20.png" thumb="images/buttons_new/head/Head_front_20.png" />
+	  <image image="images/avatar_new/head/Head_21.png" thumb="images/buttons_new/head/Head_front_21.png" />
+	  <image image="images/avatar_new/head/Head_22.png" thumb="images/buttons_new/head/Head_front_22.png" />
+    </head>
+	<torso label="Outfits" optional="false" tabbed="true">
+      <image image="images/avatar_new/torso/Torso_01.png" thumb="images/buttons_new/torso/Torso_front_01.png" />
+	  <image image="images/avatar_new/torso/Torso_02.png" thumb="images/buttons_new/torso/Torso_front_02.png" />
+	  <image image="images/avatar_new/torso/Torso_03.png" thumb="images/buttons_new/torso/Torso_front_03.png" />
+	  <image image="images/avatar_new/torso/Torso_04.png" thumb="images/buttons_new/torso/Torso_front_04.png" />
+	  <image image="images/avatar_new/torso/Torso_05.png" thumb="images/buttons_new/torso/Torso_front_05.png" />
+	  <image image="images/avatar_new/torso/Torso_06.png" thumb="images/buttons_new/torso/Torso_front_06.png" />
+	  <image image="images/avatar_new/torso/Torso_07.png" thumb="images/buttons_new/torso/Torso_front_07.png" />
+	  <image image="images/avatar_new/torso/Torso_08.png" thumb="images/buttons_new/torso/Torso_front_08.png" />
+	  <image image="images/avatar_new/torso/Torso_09.png" thumb="images/buttons_new/torso/Torso_front_09.png" />
+	  <image image="images/avatar_new/torso/Torso_10.png" thumb="images/buttons_new/torso/Torso_front_10.png" />
+	  <image image="images/avatar_new/torso/Torso_11.png" thumb="images/buttons_new/torso/Torso_front_11.png" />
+	  <image image="images/avatar_new/torso/Torso_12.png" thumb="images/buttons_new/torso/Torso_front_12.png" />
+	  <image image="images/avatar_new/torso/Torso_13.png" thumb="images/buttons_new/torso/Torso_front_13.png" />
+	  <image image="images/avatar_new/torso/Torso_14.png" thumb="images/buttons_new/torso/Torso_front_14.png" />
+	  <image image="images/avatar_new/torso/Torso_15.png" thumb="images/buttons_new/torso/Torso_front_15.png" />
+	  <image image="images/avatar_new/torso/Torso_16.png" thumb="images/buttons_new/torso/Torso_front_16.png" />
+	  <image image="images/avatar_new/torso/Torso_17.png" thumb="images/buttons_new/torso/Torso_front_17.png" />
+	  <image image="images/avatar_new/torso/Torso_18.png" thumb="images/buttons_new/torso/Torso_front_18.png" />
+	  <image image="images/avatar_new/torso/Torso_19.png" thumb="images/buttons_new/torso/Torso_front_19.png" />
+	  <image image="images/avatar_new/torso/Torso_20.png" thumb="images/buttons_new/torso/Torso_front_20.png" />
+	  <image image="images/avatar_new/torso/Torso_21.png" thumb="images/buttons_new/torso/Torso_front_21.png" />
+	  <image image="images/avatar_new/torso/Torso_22.png" thumb="images/buttons_new/torso/Torso_front_22.png" />
+	  <image image="images/avatar_new/torso/Torso_23.png" thumb="images/buttons_new/torso/Torso_front_23.png" />
+	  <image image="images/avatar_new/torso/Torso_24.png" thumb="images/buttons_new/torso/Torso_front_24.png" />
+    </torso>
+	<legs label="Legs" optional="false" tabbed="true">
+      <image image="images/avatar_new/legs/Leg_01.png" thumb="images/buttons_new/legs/Legfront_01.png" />
+	  <image image="images/avatar_new/legs/Leg_02.png" thumb="images/buttons_new/legs/Legfront_02.png" />
+	  <image image="images/avatar_new/legs/Leg_03.png" thumb="images/buttons_new/legs/Legfront_03.png" />
+	  <image image="images/avatar_new/legs/Leg_04.png" thumb="images/buttons_new/legs/Legfront_04.png" />
+	  <image image="images/avatar_new/legs/Leg_05.png" thumb="images/buttons_new/legs/Legfront_05.png" />
+	  <image image="images/avatar_new/legs/Leg_06.png" thumb="images/buttons_new/legs/Legfront_06.png" />
+	  <image image="images/avatar_new/legs/Leg_07.png" thumb="images/buttons_new/legs/Legfront_07.png" />
+	  <image image="images/avatar_new/legs/Leg_08.png" thumb="images/buttons_new/legs/Legfront_08.png" />
+	  <image image="images/avatar_new/legs/Leg_09.png" thumb="images/buttons_new/legs/Legfront_09.png" />
+	  <image image="images/avatar_new/legs/Leg_10.png" thumb="images/buttons_new/legs/Legfront_10.png" />
+	  <image image="images/avatar_new/legs/Leg_11.png" thumb="images/buttons_new/legs/Legfront_11.png" />
+	  <image image="images/avatar_new/legs/Leg_12.png" thumb="images/buttons_new/legs/Legfront_12.png" />
+	  <image image="images/avatar_new/legs/Leg_13.png" thumb="images/buttons_new/legs/Legfront_13.png" />
+    </legs>
+	<hats label="Hats" optional="true" tabbed="true">
+      <image image="images/avatar_new/hats/Hat_01.png" thumb="images/buttons_new/hats/Hat_front_01.png" />
+	  <image image="images/avatar_new/hats/Hat_02.png" thumb="images/buttons_new/hats/Hat_front_02.png" />
+	  <image image="images/avatar_new/hats/Hat_03.png" thumb="images/buttons_new/hats/Hat_front_03.png" />
+	  <image image="images/avatar_new/hats/Hat_04.png" thumb="images/buttons_new/hats/Hat_front_04.png" />
+	  <image image="images/avatar_new/hats/Hat_05.png" thumb="images/buttons_new/hats/Hat_front_05.png" />
+	  <image image="images/avatar_new/hats/Hat_06.png" thumb="images/buttons_new/hats/Hat_front_06.png" />
+	  <image image="images/avatar_new/hats/Hat_07.png" thumb="images/buttons_new/hats/Hat_front_07.png" />
+	  <image image="images/avatar_new/hats/Hat_08.png" thumb="images/buttons_new/hats/Hat_front_08.png" />
+	  <image image="images/avatar_new/hats/Hat_09.png" thumb="images/buttons_new/hats/Hat_front_09.png" />
+	  <image image="images/avatar_new/hats/Hat_10.png" thumb="images/buttons_new/hats/Hat_front_10.png" />
+	  <image image="images/avatar_new/hats/Hat_11.png" thumb="images/buttons_new/hats/Hat_front_11.png" />
+	  <image image="images/avatar_new/hats/Hat_12.png" thumb="images/buttons_new/hats/Hat_front_12.png" />
+	  <image image="images/avatar_new/hats/Hat_13.png" thumb="images/buttons_new/hats/Hat_front_13.png" />
+	  <image image="images/avatar_new/hats/Hat_14.png" thumb="images/buttons_new/hats/Hat_front_14.png" />
+	  <image image="images/avatar_new/hats/Hat_15.png" thumb="images/buttons_new/hats/Hat_front_15.png" />
+	  <image image="images/avatar_new/hats/Hat_16.png" thumb="images/buttons_new/hats/Hat_front_16.png" />
+	  <image image="images/avatar_new/hats/Hat_17.png" thumb="images/buttons_new/hats/Hat_front_17.png" />
+	  <image image="images/avatar_new/hats/Hat_18.png" thumb="images/buttons_new/hats/Hat_front_18.png" />
+	  <image image="images/avatar_new/hats/Hat_19.png" thumb="images/buttons_new/hats/Hat_front_19.png" />
+	  <image image="images/avatar_new/hats/Hat_20.png" thumb="images/buttons_new/hats/Hat_front_20.png" />
+	  <image image="images/avatar_new/hats/Hat_21.png" thumb="images/buttons_new/hats/Hat_front_21.png" />
+	  <image image="images/avatar_new/hats/Hat_22.png" thumb="images/buttons_new/hats/Hat_front_22.png" />
+	  <image image="images/avatar_new/hats/Hat_23.png" thumb="images/buttons_new/hats/Hat_front_23.png" />
+	  <image image="images/avatar_new/hats/Hat_24.png" thumb="images/buttons_new/hats/Hat_front_24.png" />
+    </hats>
+    <accessories_right label="Left hand items" optional="true" tabbed="true">
+      <image image="images/avatar_new/accessories/Item_left_01.png" thumb="images/buttons_new/accessories/Item_left_front_01.png" />
+	  <image image="images/avatar_new/accessories/Item_left_02.png" thumb="images/buttons_new/accessories/Item_left_front_02.png" />
+	  <image image="images/avatar_new/accessories/Item_left_03.png" thumb="images/buttons_new/accessories/Item_left_front_03.png" />
+	  <image image="images/avatar_new/accessories/Item_left_04.png" thumb="images/buttons_new/accessories/Item_left_front_04.png" />
+	  <image image="images/avatar_new/accessories/Item_left_05.png" thumb="images/buttons_new/accessories/Item_left_front_05.png" />
+	  <image image="images/avatar_new/accessories/Item_left_06.png" thumb="images/buttons_new/accessories/Item_left_front_06.png" />
+	  <image image="images/avatar_new/accessories/Item_left_07.png" thumb="images/buttons_new/accessories/Item_left_front_07.png" />
+	  <image image="images/avatar_new/accessories/Item_left_08.png" thumb="images/buttons_new/accessories/Item_left_front_08.png" />
+	  <image image="images/avatar_new/accessories/Item_left_09.png" thumb="images/buttons_new/accessories/Item_left_front_09.png" />
+	  <image image="images/avatar_new/accessories/Item_left_10.png" thumb="images/buttons_new/accessories/Item_left_front_10.png" />
+	  <image image="images/avatar_new/accessories/Item_left_11.png" thumb="images/buttons_new/accessories/Item_left_front_11.png" />
+    </accessories_right>
+	<accessories_left label="Right hand items" optional="true" tabbed="true">
+	  <image image="images/avatar_new/accessories/Item_right_01.png" thumb="images/buttons_new/accessories/Item_right_front_01.png" />
+	  <image image="images/avatar_new/accessories/Item_right_02.png" thumb="images/buttons_new/accessories/Item_right_front_02.png" />
+	  <image image="images/avatar_new/accessories/Item_right_03.png" thumb="images/buttons_new/accessories/Item_right_front_03.png" />
+	  <image image="images/avatar_new/accessories/Item_right_04.png" thumb="images/buttons_new/accessories/Item_right_front_04.png" />
+	  <image image="images/avatar_new/accessories/Item_right_05.png" thumb="images/buttons_new/accessories/Item_right_front_05.png" />
+	  <image image="images/avatar_new/accessories/Item_right_06.png" thumb="images/buttons_new/accessories/Item_right_front_06.png" />
+	  <image image="images/avatar_new/accessories/Item_right_07.png" thumb="images/buttons_new/accessories/Item_right_front_07.png" />
+	  <image image="images/avatar_new/accessories/Item_right_08.png" thumb="images/buttons_new/accessories/Item_right_front_08.png" />
+	  <image image="images/avatar_new/accessories/Item_right_09.png" thumb="images/buttons_new/accessories/Item_right_front_09.png" />
+	  <image image="images/avatar_new/accessories/Item_right_10.png" thumb="images/buttons_new/accessories/Item_right_front_10.png" />
+    </accessories_left>
+  </bodyparts>
+</figure>
